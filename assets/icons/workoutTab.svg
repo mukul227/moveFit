@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>AFAE39F0-5FEF-48D3-AEB7-D46DCF306A28</title>
+    <g id="Green-on-White" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Assets" transform="translate(-59.000000, -892.000000)" stroke="currentColor" stroke-width="1.6">
+            <g id="Light-/-Active-/-1" transform="translate(59.000000, 892.000000)">
+                <g id="home" transform="translate(3.000000, 3.000000)">
+                    <line fill="red" x1="5.69096393" y1="13.5362514" x2="11.6909639" y2="13.5362514" id="Path"></line>
+                    <path d="M0.180963928,12.0362514 C0.550963928,16.5162514 2.18096393,18.5362514 8.68096393,18.5362514 C15.1809639,18.5362514 16.8009639,16.5162514 17.1709639,12.0362514 C17.6709639,6.03625139 17.1709639,5.53625139 13.1709639,2.53625139 C8.67096393,-0.843748611 8.67096393,-0.843748611 4.17096393,2.52625139 L4.16096393,2.52625139 C0.150963928,5.52625139 -0.339036072,6.02625139 0.160963928,12.0262514 L0.180963928,12.0362514 Z" id="Path"  stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

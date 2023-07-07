@@ -1,0 +1,338 @@
+{
+    "id": 1,
+    "name": "Push workout",
+    "fitness_level": "beginner",
+    "duration": 60,
+    "active_calories": 123,
+    "total_calories": 123,
+    "rest_time": 30,
+    "thumbnail": "https://move-fit.fra1.digitaloceanspaces.com/workout-thumbnail-1656499450775.jpg",
+    "createdAt": "2022-06-03T12:34:15.000Z",
+    "updatedAt": "2022-06-29T10:44:11.000Z",
+    "workoutItems": [
+      {
+        "id": 11,
+        "workout_id": 1,
+        "exercise_id": 4,
+        "amrap_id": null,
+        "round_id": null,
+        "type": "exercise_duration",
+        "quantity": 30,
+        "description": "Test description",
+        "createdAt": "2022-09-16T07:58:58.000Z",
+        "updatedAt": "2022-09-16T07:59:15.000Z",
+        "exercise": {
+          "id": 4,
+          "name": "Bent over row",
+          "description": "intermediate",
+          "video": "https://media.movefit.cloud/Exercise-Seated-Barbell-Shoulder-Press-1659994925380.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1597452329152-52f9eee96576?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1544&q=80",
+          "createdAt": "2022-06-03T12:34:15.000Z",
+          "updatedAt": "2022-06-03T12:34:15.000Z"
+        },
+        "amrap": null,
+        "round": null
+      },
+        {
+            "id": 7,
+            "workout_id": 1,
+            "exercise_id": null,
+            "amrap_id": null,
+            "round_id": 2,
+            "type": "round",
+            "quantity": null,
+            "description": null,
+            "createdAt": "2022-09-16T07:58:29.000Z",
+            "updatedAt": "2022-09-16T07:58:29.000Z",
+            "exercise": null,
+            "amrap": null,
+            "round": {
+                "id": 2,
+                "value": 3,
+                "name": "Round 1",
+                "createdAt": "2022-09-14T11:21:57.000Z",
+                "updatedAt": "2022-09-16T07:55:36.000Z",
+                "items": [
+                    {
+                        "id": 4,
+                        "round_id": 2,
+                        "exercise_id": null,
+                        "type": "break",
+                        "quantity": 10,
+                        "createdAt": "2022-09-14T11:22:02.000Z",
+                        "updatedAt": "2022-09-15T09:13:22.000Z",
+                        "exercise": null
+                    },
+                    {
+                        "id": 5,
+                        "round_id": 2,
+                        "exercise_id": 2,
+                        "type": "exercise_duration",
+                        "quantity": 28,
+                        "createdAt": "2022-09-14T11:22:02.000Z",
+                        "updatedAt": "2022-09-14T11:24:24.000Z",
+                        "exercise": {
+                            "id": 2,
+                            "name": "Dead Lift",
+                            "description": "intermediate",
+                            "video": "https://media.movefit.cloud/Exercise-High-Knees-1655505460031.mp4",
+                            "thumbnail": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+                            "createdAt": "2022-06-03T12:34:15.000Z",
+                            "updatedAt": "2022-06-03T12:34:15.000Z"
+                        }
+                    },
+                    {
+                        "id": 6,
+                        "round_id": 2,
+                        "exercise_id": 3,
+                        "type": "exercise_reps",
+                        "quantity": 15,
+                        "createdAt": "2022-09-14T11:22:02.000Z",
+                        "updatedAt": "2022-09-14T11:24:17.000Z",
+                        "exercise": {
+                            "id": 3,
+                            "name": "Pull ups",
+                            "description": "advanced",
+                            "video": "https://media.movefit.cloud/Exercise-JB-Fitness-Video-1659702290256.mp4",
+                            "thumbnail": "https://images.unsplash.com/photo-1597452329152-52f9eee96576?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1544&q=80",
+                            "createdAt": "2022-06-03T12:34:15.000Z",
+                            "updatedAt": "2022-06-03T12:34:15.000Z"
+                        }
+                    },
+                    {
+                        "id": 27,
+                        "round_id": 2,
+                        "exercise_id": 5,
+                        "type": "exercise_duration",
+                        "quantity": 22,
+                        "createdAt": "2022-09-14T13:10:52.000Z",
+                        "updatedAt": "2022-09-14T13:11:46.000Z",
+                        "exercise": {
+                            "id": 5,
+                            "name": "Military Press",
+                            "description": "intermediate",
+                            "video": "https://media.movefit.cloud/Exercise-Seated-Barbell-Shoulder-Press-1659994925380.mp4",
+                            "thumbnail": "https://images.unsplash.com/photo-1597452329152-52f9eee96576?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1544&q=80",
+                            "createdAt": "2022-06-03T12:34:15.000Z",
+                            "updatedAt": "2022-06-03T12:34:15.000Z"
+                        }
+                    },
+                    {
+                        "id": 28,
+                        "round_id": 2,
+                        "exercise_id": 4,
+                        "type": "exercise_reps",
+                        "quantity": 3,
+                        "createdAt": "2022-09-14T13:11:52.000Z",
+                        "updatedAt": "2022-09-14T13:11:57.000Z",
+                        "exercise": {
+                            "id": 4,
+                            "name": "Bent over row",
+                            "description": "intermediate",
+                            "video": "https://media.movefit.cloud/Exercise-JB-Fitness-Video-1659702290256.mp4",
+                            "thumbnail": "https://images.unsplash.com/photo-1597452329152-52f9eee96576?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1544&q=80",
+                            "createdAt": "2022-06-03T12:34:15.000Z",
+                            "updatedAt": "2022-06-03T12:34:15.000Z"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "id": 9,
+            "workout_id": 1,
+            "exercise_id": null,
+            "amrap_id": 1,
+            "round_id": null,
+            "type": "amrap",
+            "quantity": null,
+            "description": null,
+            "createdAt": "2022-09-16T07:58:45.000Z",
+            "updatedAt": "2022-09-16T07:58:45.000Z",
+            "exercise": null,
+            "amrap": {
+                "id": 1,
+                "time": 15,
+                "name": "Amrap",
+                "createdAt": "2022-09-15T08:20:01.000Z",
+                "updatedAt": "2022-09-16T07:57:39.000Z",
+                "items": [
+                    {
+                        "id": 1,
+                        "amrap_id": 1,
+                        "exercise_id": 4,
+                        "quantity": null,
+                        "createdAt": "2022-09-15T09:10:42.000Z",
+                        "updatedAt": "2022-09-15T09:10:42.000Z",
+                        "exercise": {
+                            "id": 4,
+                            "name": "Bent over row",
+                            "description": "intermediate",
+                            "video": "https://media.movefit.cloud/Exercise-Jump-Squats-1654817037648.mp4",
+                            "thumbnail": "https://images.unsplash.com/photo-1597452329152-52f9eee96576?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1544&q=80",
+                            "createdAt": "2022-06-03T12:34:15.000Z",
+                            "updatedAt": "2022-06-03T12:34:15.000Z"
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "amrap_id": 1,
+                        "exercise_id": 5,
+                        "quantity": null,
+                        "createdAt": "2022-09-15T09:10:42.000Z",
+                        "updatedAt": "2022-09-15T09:10:42.000Z",
+                        "exercise": {
+                            "id": 5,
+                            "name": "Military Press",
+                            "description": "intermediate",
+                            "video": "https://media.movefit.cloud/Exercise-JB-Fitness-Video-1659702290256.mp4",
+                            "thumbnail": "https://images.unsplash.com/photo-1597452329152-52f9eee96576?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1544&q=80",
+                            "createdAt": "2022-06-03T12:34:15.000Z",
+                            "updatedAt": "2022-06-03T12:34:15.000Z"
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "amrap_id": 1,
+                        "exercise_id": 6,
+                        "quantity": null,
+                        "createdAt": "2022-09-15T09:10:42.000Z",
+                        "updatedAt": "2022-09-15T09:10:42.000Z",
+                        "exercise": {
+                            "id": 6,
+                            "name": "Squat",
+                            "description": "beginner",
+                            "video": "https://media.movefit.cloud/Exercise-Jump-Squats-1654817037648.mp4",
+                            "thumbnail": "https://images.unsplash.com/photo-1596357395217-80de13130e92?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1742&q=80",
+                            "createdAt": "2022-06-03T12:34:15.000Z",
+                            "updatedAt": "2022-06-03T12:34:15.000Z"
+                        }
+                    }
+                ]
+            },
+            "round": null
+        },
+        {
+            "id": 8,
+            "workout_id": 1,
+            "exercise_id": null,
+            "amrap_id": null,
+            "round_id": null,
+            "type": "break",
+            "quantity": 30,
+            "description": null,
+            "createdAt": "2022-09-16T07:58:35.000Z",
+            "updatedAt": "2022-09-16T07:58:35.000Z",
+            "exercise": null,
+            "amrap": null,
+            "round": null
+        },
+        {
+            "id": 10,
+            "workout_id": 1,
+            "exercise_id": null,
+            "amrap_id": null,
+            "round_id": null,
+            "type": "break",
+            "quantity": 60,
+            "description": null,
+            "createdAt": "2022-09-16T07:58:51.000Z",
+            "updatedAt": "2022-09-16T07:58:51.000Z",
+            "exercise": null,
+            "amrap": null,
+            "round": null
+        },
+        {
+            "id": 11,
+            "workout_id": 1,
+            "exercise_id": 4,
+            "amrap_id": null,
+            "round_id": null,
+            "type": "exercise_duration",
+            "quantity": 30,
+            "description": "Test description",
+            "createdAt": "2022-09-16T07:58:58.000Z",
+            "updatedAt": "2022-09-16T07:59:15.000Z",
+            "exercise": {
+                "id": 4,
+                "name": "Bent over row",
+                "description": "intermediate",
+                "video": "https://media.movefit.cloud/Exercise-Seated-Barbell-Shoulder-Press-1659994925380.mp4",
+                "thumbnail": "https://images.unsplash.com/photo-1597452329152-52f9eee96576?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1544&q=80",
+                "createdAt": "2022-06-03T12:34:15.000Z",
+                "updatedAt": "2022-06-03T12:34:15.000Z"
+            },
+            "amrap": null,
+            "round": null
+        },
+        {
+            "id": 12,
+            "workout_id": 1,
+            "exercise_id": 5,
+            "amrap_id": null,
+            "round_id": null,
+            "type": "exercise_reps",
+            "quantity": 14,
+            "description": null,
+            "createdAt": "2022-09-16T07:58:58.000Z",
+            "updatedAt": "2022-09-16T07:58:58.000Z",
+            "exercise": {
+                "id": 5,
+                "name": "Military Press",
+                "description": "intermediate",
+                "video": "https://media.movefit.cloud/Exercise-Jump-Squats-1654817037648.mp4",
+                "thumbnail": "https://images.unsplash.com/photo-1597452329152-52f9eee96576?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1544&q=80",
+                "createdAt": "2022-06-03T12:34:15.000Z",
+                "updatedAt": "2022-06-03T12:34:15.000Z"
+            },
+            "amrap": null,
+            "round": null
+        }
+    ],
+    "workoutEquipments": [
+        {
+            "id": 10,
+            "workout_id": 1,
+            "equipment_id": 1,
+            "createdAt": "2022-06-29T10:44:11.000Z",
+            "updatedAt": "2022-06-29T10:44:11.000Z",
+            "equipment": {
+                "id": 1,
+                "name": "Barbell",
+                "photo": null,
+                "createdAt": "2022-06-03T12:34:15.000Z",
+                "updatedAt": "2022-06-03T12:34:15.000Z"
+            }
+        },
+        {
+            "id": 11,
+            "workout_id": 1,
+            "equipment_id": 2,
+            "createdAt": "2022-06-29T10:44:11.000Z",
+            "updatedAt": "2022-06-29T10:44:11.000Z",
+            "equipment": {
+                "id": 2,
+                "name": "Bumper plates",
+                "photo": null,
+                "createdAt": "2022-06-03T12:34:15.000Z",
+                "updatedAt": "2022-06-03T12:34:15.000Z"
+            }
+        },
+        {
+            "id": 12,
+            "workout_id": 1,
+            "equipment_id": 3,
+            "createdAt": "2022-06-29T10:44:11.000Z",
+            "updatedAt": "2022-06-29T10:44:11.000Z",
+            "equipment": {
+                "id": 3,
+                "name": "Pair of bar collars",
+                "photo": null,
+                "createdAt": "2022-06-03T12:34:15.000Z",
+                "updatedAt": "2022-06-03T12:34:15.000Z"
+            }
+        }
+    ],
+    "canActivate": false,
+    "numberOfUsers": 101
+}

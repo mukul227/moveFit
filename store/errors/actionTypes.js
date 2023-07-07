@@ -1,0 +1,3 @@
+export const SET_GLOBAL_ERROR = 'errors/SET_GLOBAL_ERROR';
+export const VERIFICATION_CODE_ERROR = 'errors/VERIFICATION_CODE_ERROR';
+

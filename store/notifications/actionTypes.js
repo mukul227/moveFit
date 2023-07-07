@@ -1,0 +1,16 @@
+export const GET_NOTIFICATION_SAGA = 'notifications/GET_NOTIFICATION_SAGA';
+export const SET_NOTIFICATION = 'notifications/SET_NOTIFICATION';
+
+export const GET_NOTIFICATIONS_SAGA = 'notifications/GET_NOTIFICATIONS_SAGA';
+export const SET_NOTIFICATIONS = 'notifications/SET_NOTIFICATIONS';
+
+export const SEND_MESSAGE_TO_FRIEND_SAGA = 'notifications/SEND_MESSAGE_TO_FRIEND_SAGA';
+
+export const GET_NOTIFICATIONS_GRID_SAGA = 'notifications/GET_NOTIFICATIONS_GRID_SAGA';
+export const SET_NOTIFICATIONS_GRID = 'notifications/SET_NOTIFICATIONS_GRID';
+export const SET_ARE_NOTIFICATIONS_LOADING = 'notifications/SET_ARE_NOTIFICATIONS_LOADING';
+
+export const PUSH_NOTIFICATION_SAGA = 'notifications/PUSH_NOTIFICATION_SAGA';
+export const SET_PUSH_NOTIFICATION = 'notifications/SET_PUSH_NOTIFICATION';
+
+export const ON_PRESS_NOTIFICATION_SAGA = 'notifications/ON_PRESS_NOTIFICATION_SAGA';

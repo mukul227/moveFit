@@ -1,0 +1,11 @@
+export const GET_PROGRAM_SAGA = 'programs/GET_PROGRAM_SAGA';
+export const SET_PROGRAM = 'programs/SET_PROGRAM';
+
+export const GET_ALL_PROGRAMS_SAGA = 'programs/GET_ALL_PROGRAMS_SAGA';
+export const SET_ALL_PROGRAMS = 'programs/SET_ALL_PROGRAMS';
+
+export const GET_DATA_FOR_HOME_PAGE_SAGA = 'programs/GET_DATA_FOR_HOME_PAGE_SAGA';
+export const SET_DATA_FOR_HOME_PAGE = 'programs/SET_DATA_FOR_HOME_PAGE';
+
+export const START_PROGRAM_SAGA = 'programs/START_PROGRAM_SAGA';
+export const GET_NOTIFICATION_INDICATOR_SAGA = 'programs/GET_NOTIFICATION_INDICATOR_SAGA';

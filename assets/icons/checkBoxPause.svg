@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>C50178EB-CEA3-419B-BA27-1144A06D1BC8</title>
+    <g id="Green-on-White" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="MoveFit---2.6.0.1" transform="translate(-35.000000, -605.000000)">
+            <g id="Group-3" transform="translate(16.000000, 585.000000)">
+                <g id="check-box.2" transform="translate(20.000000, 21.000000)">
+                    <path d="M0,9 C0,2 2.00092,0 9.0005,0 C16,0 18,2 18,9 C18,16 15.9231,18 9.0005,18 C2.07784,18 0,16 0,9 Z" id="Path" fill="#FF2B67" opacity="0"></path>
+                    <path d="M0,9 C0,2 2.00092,0 9.0005,0 C16,0 18,2 18,9 C18,16 15.9231,18 9.0005,18 C2.07784,18 0,16 0,9 Z" id="Path" stroke="#32A1C7" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <polyline id="Path" stroke="#32A1C7" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" points="12 7.2 8 11.2 6 9.2"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Gym</title>
+    <defs>
+        <linearGradient x1="50%" y1="8.04285714%" x2="50%" y2="81.2571429%" id="linearGradient-1">
+            <stop stop-color="#000000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" offset="98.2360413%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-30%" x2="50%" y2="98.42%" id="linearGradient-2">
+            <stop stop-color="#9AA6E2" offset="0%"></stop>
+            <stop stop-color="#7283D6" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="5.55%" x2="50%" y2="94.7166667%" id="linearGradient-3">
+            <stop stop-color="#8D97A0" offset="0%"></stop>
+            <stop stop-color="#8D97A0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="15.396516%" x2="50%" y2="133.191652%" id="linearGradient-4">
+            <stop stop-color="#222A31" offset="0%"></stop>
+            <stop stop-color="#222A31" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Green-on-White" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-35.000000, -399.000000)" fill-rule="nonzero">
+            <g id="Gym" transform="translate(35.000000, 399.000000)">
+                <rect id="Rectangle" fill="#8D97A0" x="4.90909091" y="2.18181818" width="2.18181818" height="10.9090909"></rect>
+                <rect id="Rectangle" fill="url(#linearGradient-1)" opacity="0.200000003" x="4.90909091" y="9.27272727" width="2.18181818" height="3.81818182"></rect>
+                <path d="M6,12 C2.6862915,12 0,14.6862915 0,18 C0,21.3137085 2.6862915,24 6,24 C9.3137085,24 12,21.3137085 12,18 C12,16.4087011 11.367859,14.8825776 10.2426407,13.7573593 C9.11742242,12.632141 7.59129894,12 6,12 Z M6,21.8181818 C3.89127641,21.8181818 2.18181818,20.1087236 2.18181818,18 C2.18181818,15.8912764 3.89127641,14.1818182 6,14.1818182 C8.10872359,14.1818182 9.81818182,15.8912764 9.81818182,18 C9.81818182,20.1087236 8.10872359,21.8181818 6,21.8181818 Z" id="Shape" fill="#32A1C7"></path>
+                <rect id="Rectangle" fill="url(#linearGradient-2)" x="16.9090909" y="2.18181818" width="2.18181818" height="10.9090909"></rect>
+                <rect id="Rectangle" fill="#8D97A0" x="16.9090909" y="2.18181818" width="2.18181818" height="10.9090909"></rect>
+                <rect id="Rectangle" fill="url(#linearGradient-1)" opacity="0.200000003" x="16.9090909" y="9.27272727" width="2.18181818" height="3.81818182"></rect>
+                <path d="M18,12 C14.6862915,12 12,14.6862915 12,18 C12,21.3137085 14.6862915,24 18,24 C21.3137085,24 24,21.3137085 24,18 C24,14.6862915 21.3137085,12 18,12 Z M18,21.8181818 C15.8912764,21.8181818 14.1818182,20.1087236 14.1818182,18 C14.1818182,15.8912764 15.8912764,14.1818182 18,14.1818182 C20.1087236,14.1818182 21.8181818,15.8912764 21.8181818,18 C21.8181818,20.1087236 20.1087236,21.8181818 18,21.8181818 Z" id="Shape" fill="#32A1C7"></path>
+                <rect id="Rectangle" fill="url(#linearGradient-3)" x="0" y="0" width="24" height="3.27272727" rx="0.545454545"></rect>
+                <path d="M0,1.63636364 L24,1.63636364 L24,2.72727273 C24,3.02851895 23.7557917,3.27272727 23.4545455,3.27272727 L0.545454545,3.27272727 C0.244208318,3.27272727 0,3.02851895 0,2.72727273 L0,1.63636364 Z" id="Path" fill="url(#linearGradient-4)" opacity="0.100000001"></path>
+            </g>
+        </g>
+    </g>
+</svg>

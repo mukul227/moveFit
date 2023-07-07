@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>5EEED027-2919-4C34-B1E5-FD69EDF17951</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="24" height="24"></rect>
+    </defs>
+    <g id="Green-on-White" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Assets" transform="translate(-1160.000000, -576.000000)">
+            <g id="38" transform="translate(1160.000000, 576.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="38-(Background/Mask)"></g>
+                <g id="Group-1710" mask="url(#mask-2)">
+                    <g transform="translate(2.250000, 2.250000)">
+                        <path d="M9.50478494,3.28798237 C8.69831832,1.35061879 6.98937768,0 4.99241275,0 C2.23698521,0 0,2.57946156 0,5.75673755 C0,10.3067744 5.74127372,16.1410048 8.2950848,18.5101237 C9.00554349,19.1632919 10.0040264,19.1632919 10.7048843,18.5101237 C13.2682962,16.1299342 19,10.2957034 19,5.75673755 C19.0095692,2.57946156 16.7725857,0 14.0171582,0 C12.029794,0 10.3112516,1.35061879 9.50478494,3.28798237 Z" id="Vector" fill="#BA4141" fill-rule="nonzero"></path>
+                        <path d="M5.02193022,8.75 L6.5426631,4.75 L8.67168808,10.1785717 L9.58412838,8.75 L18.75,8.75 L18.75,9.75 L10.192421,9.89285755 L8.67168808,12.75 L6.5426631,7.60714293 L5.63022375,9.89285755 L1.09765625,9.89285755 L0.75,8.75 L5.02193022,8.75 Z" id="Vector-3" fill="#FFFFFF" fill-rule="evenodd"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

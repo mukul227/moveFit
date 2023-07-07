@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>32EA2BF6-7467-488A-8409-9291BBDE1FF7</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="44" height="44" rx="22"></rect>
+        <filter x="-25.0%" y="-15.9%" width="150.0%" height="150.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="3" operator="erode" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="4" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0960051013   0 0 0 0 0.128825692   0 0 0 0 0.163138127  0 0 0 0.425116266 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Green-on-White" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Assets" transform="translate(-1191.000000, -1125.000000)">
+            <g id="Play" transform="translate(1197.000000, 1127.000000)">
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="0.4" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="black" fill-opacity="0.4" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="􀊄" transform="translate(15.000000, 13.000000)" fill="currentColor" fill-rule="nonzero">
+                    <path d="M1.82243659,18 C2.05033165,18 2.27965046,17.9625207 2.51039301,17.8875621 C2.74113555,17.8126034 3.00365889,17.6903819 3.29796302,17.5208976 L14.5926683,10.9139274 C15.0387095,10.6500146 15.384775,10.370745 15.630865,10.0761187 C15.876955,9.78149236 16,9.42122854 16,8.99532725 C16,8.57419606 15.876955,8.21512477 15.630865,7.91811338 C15.384775,7.62110199 15.0387095,7.34375507 14.5926683,7.08607262 L3.29796302,0.476912094 C3.00365889,0.304117857 2.74113555,0.181433949 2.51039301,0.108860369 C2.27965046,0.0362867898 2.05033165,0 1.82243659,0 C1.34058476,0 0.916382371,0.177613006 0.549829423,0.532839017 C0.183276474,0.888065029 0,1.38517701 0,2.02417497 L0,15.9736347 C0,16.6126326 0.183276474,17.1101097 0.549829423,17.4660658 C0.916382371,17.8220219 1.34058476,18 1.82243659,18 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

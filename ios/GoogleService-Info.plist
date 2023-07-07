@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>930137032087-8kajfot2cgbp3nr36d5rcclh13sg3lgp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.930137032087-8kajfot2cgbp3nr36d5rcclh13sg3lgp</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDSgwBVdhfddesO6EIa_Mpl7GHiSlJzIoY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>930137032087</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.movefit.app</string>
+	<key>PROJECT_ID</key>
+	<string>movefit-82544</string>
+	<key>STORAGE_BUCKET</key>
+	<string>movefit-82544.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:930137032087:ios:ee7029eb198b82eef5b0d2</string>
+</dict>
+</plist>

@@ -1,0 +1,10 @@
+export const OPEN_LOCATION_POP_UP = 'calendar/OPEN_LOCATION_POP_UP';
+export const SHOW_LOG_EVENT_MODAL = 'calendar/SHOW_LOG_EVENT_MODAL';
+export const GET_EVENTS_SAGA = 'calendar/GET_EVENTS_SAGA';
+export const SET_CALENDAR_EVENTS = 'calendar/SET_CALENDAR_EVENTS';
+export const CREATE_NEW_EVENT_SAGA = 'calendar/CREATE_NEW_EVENT_SAGA';
+export const SET_MOVE_CALENDAR_OBJECT = 'calendar/SET_MOVE_CALENDAR_OBJECT';
+export const IS_CALENDAR_MODAL_OPEN = 'calendar/IS_CALENDAR_MODAL_OPEN';
+export const SET_SCHEDULE_WORKOUT = 'calendar/SET_SCHEDULE_WORKOUT';
+export const MOVE_WORKOUT_SAGA = 'calendar/MOVE_WORKOUT_SAGA';
+

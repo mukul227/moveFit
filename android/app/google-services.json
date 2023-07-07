@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "930137032087",
+    "project_id": "movefit-82544",
+    "storage_bucket": "movefit-82544.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930137032087:android:5c53f763fa9684e4f5b0d2",
+        "android_client_info": {
+          "package_name": "com.movefit.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930137032087-krqmbvav8euaffddom70tp6f5d8me1hq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPsuCrPAnakcwvlCF1zVrH2mYenBCI9gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930137032087-krqmbvav8euaffddom70tp6f5d8me1hq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "930137032087-8kajfot2cgbp3nr36d5rcclh13sg3lgp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.movefit.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930137032087:android:cd93caa890dfefd1f5b0d2",
+        "android_client_info": {
+          "package_name": "com.movefitness.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930137032087-krqmbvav8euaffddom70tp6f5d8me1hq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPsuCrPAnakcwvlCF1zVrH2mYenBCI9gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930137032087-krqmbvav8euaffddom70tp6f5d8me1hq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "930137032087-8kajfot2cgbp3nr36d5rcclh13sg3lgp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.movefit.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
